@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a magento real-time inventory extension](https://github.com/CBurl1/mrti)
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **PostgreSQL** 
 
 - 👨‍💻 All of my projects are available at [www.collinburleigh.com](www.collinburleigh.com)
 
