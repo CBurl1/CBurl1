@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PostgreSQL** 
 
-- 👨‍💻 All of my projects are available at [www.collinburleigh.com](www.collinburleigh.com)
+- 👨‍💻 All of my projects are available at [www.collinburleigh.com](https://www.collinburleigh.com)
 
 - 💬 Ask me about **React, Python and Flask**
 
