@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Collin</h1>
 <h3 align="center">Full stack developer</h3>
 
-- 🔭 I’m currently working on [a magento real-time inventory extension](https://github.com/CBurl1/mrti)
+- 🔭 I’m currently working on [a Magento real-time inventory extension](https://github.com/CBurl1/mrti)
 
 - 🌱 I’m currently learning **PostgreSQL** 
 
