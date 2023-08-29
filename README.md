@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [www.collinburleigh.com](https://www.collinburleigh.com)
 
-- 💬 Ask me about **React, Python and Flask**
+- 💬 Ask me about **Javascript, React, Python and Flask**
 
 - 📫 How to reach me **Collin.s.burleigh@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1KVP-qPeiQulp7XfonAlBQbnZ1DD69EeuoxykKqWosc8/edit](https://docs.google.com/document/d/1KVP-qPeiQulp7XfonAlBQbnZ1DD69EeuoxykKqWosc8/edit)
 
-- ⚡ Fun fact **I love to ski and play baseball**
+- ⚡ Fun fact **I love to ski**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
