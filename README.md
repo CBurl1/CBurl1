@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Collin</h1>
+<h1 align="center">Hey, I'm Collin</h1>
 <h2 align="center">Full Stack Indie Developer</h2>
 <h3 align="left">I use code to solve real world problems. Have a problem your business needs solving? Let's talk.</h3>
 
