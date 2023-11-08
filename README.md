@@ -3,13 +3,13 @@
 <h3 align="left">I use code to solve real world problems. Have a problem your business needs solving? Let's talk.</h3>
 
 
-- 🔭 I’m about to deploy a Magento real-time inventory system
+- 🔭 I’m about to deploy a Magento 2 Year End System for Inventory Managment
 
-- 🌱 I’m currently learning **PostgreSQL** 
+- 🌱 I’m currently learning **TypeScript** 
 
 - 👨‍💻 All of my projects are available at [www.collinburleigh.com](https://www.collinburleigh.com)
 
-- 💬 Ask me about **React, Python and Flask**
+- 💬 Ask me about **React, Python, Flask and PostgreSQL**
 
 - 📫 How to reach me **Collin.s.burleigh@gmail.com**
 
