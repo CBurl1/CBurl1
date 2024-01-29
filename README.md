@@ -3,7 +3,7 @@
 <h3 align="left">I use code to solve real world problems. Have a problem your business needs solving? Let's talk.</h3>
 
 
-- 🔭 I’m about to deploy a Magento 2 System for Inventory Managment
+- 🔭 I’m about to deploy a Magento 2 extension for inventory managment called M2 InstaCount
 
 - 🌱 I’m currently learning **TypeScript** 
 
