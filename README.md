@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **TypeScript** 
 
--- 👨‍💻 All of my projects are available at [www.collinburleigh.com](https://www.collinburleigh.com) --
+- 👨‍💻 All of my projects are available at [www.collinburleigh.com](https://www.collinburleigh.com) -
 
 - 💬 Ask me about **React, Python, Flask and PostgreSQL**
 
-- 📫 How to reach me **me@collinburleigh.comcom**
+- 📫 How to reach me **me@collinburleigh.com**
 
 - ⚡ Fun fact **I love to ski**
 
