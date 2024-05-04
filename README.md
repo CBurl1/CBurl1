@@ -83,6 +83,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cburl1&show_icons=true&locale=en&layout=compact" alt="cburl1" />
-< /p>
+  (https://github-readme-stats.vercel.app/api?username=CBurl1)](https://github.com/CBurl1/github-readme-stats)</p>
 
