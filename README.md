@@ -89,8 +89,4 @@
 
 </p>
 
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api?username=CBurl1)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
 
