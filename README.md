@@ -82,6 +82,10 @@
 
 </p>
 
+</p>
+
 <p align="center">
-  (https://github-readme-stats.vercel.app/api?username=Cburl1)](https://github.com/Cburl1/github-readme-stats)</p>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CBurl1)](https://github.com/CBurl1/github-readme-stats)
+</p>
+
 
