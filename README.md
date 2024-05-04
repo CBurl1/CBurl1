@@ -83,5 +83,5 @@
 </p>
 
 <p align="center">
-  (https://github-readme-stats.vercel.app/api?username=CBurl1)](https://github.com/CBurl1/github-readme-stats)</p>
+  (https://github-readme-stats.vercel.app/api?username=Cburl1)](https://github.com/Cburl1/github-readme-stats)</p>
 
