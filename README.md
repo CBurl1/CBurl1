@@ -81,12 +81,9 @@
 </p>
 
 </p>
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api?username=CBurl1)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cburl1&show_icons=true&locale=en&layout=compact" alt="cburl1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CBurl1&show_icons=true&locale=en&layout=compact" alt="cburl1" />
 </p>
 
 
