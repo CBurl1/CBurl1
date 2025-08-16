@@ -42,7 +42,6 @@ I'm always open to connecting with fellow developers, potential customers, or di
 <ul> 
 <li><a href="https://linkedin.com/in/burleighcollin" target="_blank">LinkedIn</a></li> 
 <li><a href="mailto:me@collinburleigh.com">Email</a></li> 
-<li><a href="https://github.com/cburl1" target="_blank">GitHub</a></li> 
 </ul> 
 </p> 
 
