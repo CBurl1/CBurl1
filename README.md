@@ -1,1 +1,52 @@
-<h1 align="center">👋 Hey, I'm Collin Burleigh</h1> <h2 align="center">Full-Stack Developer & Creator of M2 InstaCount</h2> <p align="left"> I'm a passionate full-stack developer focused on building innovative solutions to solve real-world problems. My latest project, <b>M2 InstaCount</b>, is a cutting-edge Magento 2 extension designed to simplify inventory management. Check it out at <a href="https://m2instacount.com/" target="_blank">M2 InstaCount</a>. </p> <h3 align="left">Tech Stack</h3> <p align="left"> I love working with a diverse range of technologies, including: <ul> <li>React, JavaScript/TypeScript</li> <li>Python, Flask</li> <li>Tailwind CSS, Bootstrap</li> <li>Magento 2 Development</li> <li>SQL Databases (PostgreSQL, SQLite, MySQL)</li> <li>NoSQL Databases (MongoDB)</li> <li>AWS, Redis, Git, Postman</li> </ul> </p> <h3 align="left">What I'm Into</h3> <p align="left"> I’m always looking to learn new things and improve my craft. Here are a few areas that I’m particularly passionate about: <ul> <li>Developing efficient full-stack solutions</li> <li>Exploring new web development technologies</li> <li>Building scalable, maintainable codebases</li> <li>Optimizing backend systems and databases</li> <li>Embracing performance improvements and clean UI/UX</li> </ul> </p> <h3 align="left">Let's Connect</h3> <p align="left"> I'm always open to connecting with fellow developers, discussing exciting projects, or just chatting about technology. You can reach me through: <ul> <li><a href="https://linkedin.com/in/burleighcollin" target="_blank">LinkedIn</a></li> <li><a href="mailto:me@collinburleigh.com">Email</a></li> </ul> </p> <h3 align="center">Interested in My Work?</h3> <p align="center"> Check out more about me and my projects at <a href="https://www.collinburleigh.com" target="_blank">www.collinburleigh.com</a>. </p>
+<h1 align="center">👋 Hey, I'm Collin Burleigh</h1> 
+<h2 align="center">Software Engineer & Creator of AutoSortPro & M2 InstaCount</h2> 
+
+<p align="left"> 
+I'm a passionate software engineer specializing in SaaS and desktop applications. As a freelance developer since June 2023, I've built and supported applications serving <b>100+ customers</b>. My flagship projects include <b>AutoSortPro</b> - an AI-powered file organization tool, and <b>M2 InstaCount</b> - a Magento 2 inventory management solution that has improved efficiency by 30-35% for businesses.
+
+Check out my work:
+- <a href="https://autosortpro.com/" target="_blank">AutoSortPro</a> - AI file organization
+- <a href="https://m2instacount.com/" target="_blank">M2 InstaCount</a> - Magento 2 inventory management
+</p> 
+
+<h3 align="left">Tech Stack</h3> 
+<p align="left"> 
+I work with a comprehensive technology stack:
+<ul> 
+<li>Python, Flask, JavaScript, ReactJS</li> 
+<li>Electron (for desktop applications)</li> 
+<li>SQL Databases (PostgreSQL, SQLite)</li> 
+<li>HTML/CSS, Tailwind CSS</li> 
+<li>AWS (IAM, S3, SES, Rekognition)</li> 
+<li>API Integrations (OpenAI, Auth0, Stripe)</li> 
+<li>Development Tools (Git, Jira, PyTest, Jest)</li> 
+</ul> 
+</p> 
+
+<h3 align="left">What I'm Into</h3> 
+<p align="left"> 
+I'm focused on building scalable solutions that provide real value:
+<ul> 
+<li>Developing AI-powered applications with OpenAI API integration</li> 
+<li>Building SaaS platforms with robust authentication and payment systems</li> 
+<li>Creating desktop applications with Electron and modern web technologies</li> 
+<li>Optimizing API performance and database efficiency</li> 
+<li>Implementing smart automation solutions that save users time</li> 
+<li>Providing excellent customer support and onboarding experiences</li> 
+</ul> 
+</p> 
+
+<h3 align="left">Let's Connect</h3> 
+<p align="left"> 
+I'm always open to connecting with fellow developers, potential customers, or discussing exciting projects:
+<ul> 
+<li><a href="https://linkedin.com/in/burleighcollin" target="_blank">LinkedIn</a></li> 
+<li><a href="mailto:me@collinburleigh.com">Email</a></li> 
+<li><a href="https://github.com/cburl1" target="_blank">GitHub</a></li> 
+</ul> 
+</p> 
+
+<h3 align="center">Interested in My Work?</h3> 
+<p align="center"> 
+Check out my portfolio and learn more about my projects at <a href="https://www.collinburleigh.com" target="_blank">www.collinburleigh.com</a>. 
+</p>
