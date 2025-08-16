@@ -27,7 +27,7 @@ I work with a comprehensive technology stack:
 <p align="left"> 
 I'm focused on building scalable solutions that provide real value:
 <ul> 
-<li>Developing AI-powered applications with OpenAI API integration</li> 
+<li>Developing AI-powered applications with LLM integrations</li> 
 <li>Building SaaS platforms with robust authentication and payment systems</li> 
 <li>Creating desktop applications with Electron and modern web technologies</li> 
 <li>Optimizing API performance and database efficiency</li> 
