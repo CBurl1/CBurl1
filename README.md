@@ -24,4 +24,4 @@ I moved from order fulfillment into software development at Historia Emporium af
 
 - [Portfolio and résumé](https://www.collinburleigh.com/resume)
 - [LinkedIn](https://www.linkedin.com/in/burleighcollin/)
-- [Email](mailto:collin.s.burleigh@gmail.com)
+- [Email](mailto:me@collinburleigh.com)
