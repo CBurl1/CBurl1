@@ -1,35 +1,28 @@
 # Hi, I'm Collin Burleigh
 
-## Technical Support Engineer | SaaS, Ecommerce & Automation
+**Software engineer focused on Python backend and full-stack applications.**
 
-I'm pursuing Technical Support Engineer and Application Support roles where I can combine customer communication with hands-on technical investigation.
+I build software around real workflows, from inventory and picking tools to file organization and field operations. I like taking a problem from the first conversation through implementation, launch, and the fixes that follow.
 
-Since June 2023, I've built and supported SaaS applications used by approximately **140 users**. My work includes reproducing bugs, inspecting API responses and logs, checking database behavior, resolving authentication and payment issues, documenting solutions, and shipping code-level fixes. I also support day-to-day Magento 2 ecommerce operations, including inventory, receiving, fulfillment, and catalog workflows.
+## Selected work
 
-### Support strengths
+- **[M2 InstaCount](https://m2instacount.com/):** Built a Python, Flask, React, and PostgreSQL application for Magento inventory, receiving, and scanner-based Veeqo picking. One roughly 4,500-SKU year-end count took 22 hours, down from 42. I continue to maintain and extend the app for Historia Emporium and manage its SEO and Google Search Console.
+- **[Sentinel Insulation](https://sentinelinsulation.com/):** Built a custom quote tool and expanded it into a mobile-friendly field operations app with Next.js, TypeScript, and Supabase. It covers scheduling, work tickets, materials, supplier comparisons, and job financials. Supabase Row Level Security and server checks limit installers to assigned jobs and keep financial records with office staff. I also rebuilt the WordPress site and manage its SEO.
+- **[AutoSortPro](https://autosortpro.com/#impact):** Built a file organization app with FastAPI, Electron, React, and PostgreSQL, integrating OCR, AI metadata, Auth0, Stripe, and AWS. During its operation, 132 active users organized 12.5K+ files. The service has since shut down.
+- **[Spencer Burleigh](https://spencerburleigh.com/):** Redesigned and maintained a Jekyll site for a year, fixed image and path bugs, and built an S3-backed photo feed.
+- **OpenHome:** Built a small therapist-style voice app on an evolving OS using the OpenAI API. It summarized stored JSON conversations to provide context for longer chats.
 
-- Technical troubleshooting, issue reproduction, and root-cause investigation
-- REST APIs, authentication flows, webhooks, and third-party integrations
-- SQL queries and relational database investigation
-- SaaS onboarding, customer communication, and support documentation
-- Magento 2 inventory and ecommerce operations
-- Translating technical findings into clear guidance for non-technical users
+## Technical skills
 
-### Technical toolkit
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **Backend and data:** FastAPI, Flask, PostgreSQL, Supabase, REST APIs, pytest
+- **Frontend and desktop:** Next.js, React, Electron, Tailwind CSS, HTML/CSS
+- **Cloud and integrations:** AWS, Vercel, Magento 2 API, Veeqo API, Auth0, Stripe, OpenAI API, Git
 
-- **Languages:** Python, JavaScript, SQL, HTML, and CSS
-- **Applications:** Flask, FastAPI, React, and Electron
-- **Data:** PostgreSQL and SQLite
-- **Platforms:** AWS, Magento 2, Auth0, Stripe, OpenAI, Git, and Jira
-- **Testing:** PyTest, Jest, and hands-on API/workflow validation
+I moved from order fulfillment into software development at Historia Emporium after completing Flatiron School's Software Engineering program in 2023. I left Historia in August 2026 and continue to work on M2 InstaCount for the business. I currently work as an Order Selector at US Foods alongside independent software development.
 
-### Selected work
+## Connect
 
-- [AutoSortPro](https://autosortpro.com/) — AI-powered file organization product and case study
-- [M2 InstaCount](https://m2instacount.com/) — Magento 2 inventory and receiving application
-- [Portfolio](https://collinburleigh.com/) — experience, projects, demonstrations, and resume
-
-### Connect
-
-- [LinkedIn](https://linkedin.com/in/burleighcollin)
-- [Email](mailto:me@collinburleigh.com)
+- [Portfolio and résumé](https://www.collinburleigh.com/resume)
+- [LinkedIn](https://www.linkedin.com/in/burleighcollin/)
+- [Email](mailto:collin.s.burleigh@gmail.com)
