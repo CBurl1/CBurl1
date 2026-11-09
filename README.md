@@ -9,7 +9,6 @@ I build software around real workflows, from inventory and picking tools to file
 - **[M2 InstaCount](https://m2instacount.com/):** Built a Python, Flask, React, and PostgreSQL application for Magento inventory, receiving, and scanner-based Veeqo picking. One roughly 4,500-SKU year-end count took 22 hours, down from 42. I continue to maintain and extend the app for Historia Emporium and manage its SEO and Google Search Console.
 - **[Sentinel Insulation](https://sentinelinsulation.com/):** Built a custom quote tool and expanded it into a mobile-friendly field operations app with Next.js, TypeScript, and Supabase. It covers scheduling, work tickets, materials, supplier comparisons, and job financials. Supabase Row Level Security and server checks limit installers to assigned jobs and keep financial records with office staff. I also rebuilt the WordPress site and manage its SEO.
 - **[AutoSortPro](https://autosortpro.com/#impact):** Built a file organization app with FastAPI, Electron, React, and PostgreSQL, integrating OCR, AI metadata, Auth0, Stripe, and AWS. During its operation, 132 active users organized 12.5K+ files. The service has since shut down.
-- **[Spencer Burleigh](https://spencerburleigh.com/):** Redesigned and maintained a Jekyll site for a year, fixed image and path bugs, and built an S3-backed photo feed.
 - **OpenHome:** Built a small therapist-style voice app on an evolving OS using the OpenAI API. It summarized stored JSON conversations to provide context for longer chats.
 
 ## Technical skills
